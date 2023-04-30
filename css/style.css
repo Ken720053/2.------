@@ -1,0 +1,51 @@
+*{
+    font-family: 'Noto Sans TC',sans-serif;
+}
+.wrap{
+    width: 100%;
+    max-width: 1140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px solid #333;
+    box-sizing: border-box;
+}
+.card-img{
+    width: 257px;
+    margin-right: 220px;
+    margin-left: 173px;
+}
+.card-img img{
+    width: 100%;
+}
+.card h2,span{
+    color:#37523d
+}
+.card p,span{
+    font-size: 22px;
+}
+.card{
+    display: block;
+    margin-top: 225px;
+    margin-bottom: 225px;
+    
+}
+.card h2{
+    font-size: 28px;
+    margin: 0;
+    margin-bottom: 40px;
+}
+.card .p1{
+    width: 375px;
+    margin-bottom: 42px;
+}
+.card .p2{
+    width: 465px;
+    margin: 0;
+    line-height: 1.4;
+}
+.card span{
+    display: block;
+    margin-top: 42px;
+}
